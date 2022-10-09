@@ -8,5 +8,14 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "private": true,
+  "release": {
+    "branches": [
+      "main"
+    ]
+  },
+  "devDependencies": {
+    "semantic-release": "^19.0.5"
+  }
 }
